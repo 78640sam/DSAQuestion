@@ -1,4 +1,5 @@
 
+Next Greater Element
 
 function gele(n,arr){
     //console.log(n,arr)
